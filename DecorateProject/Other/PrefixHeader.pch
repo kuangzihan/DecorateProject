@@ -1,0 +1,25 @@
+//
+//  PrefixHeader.pch
+//  DecorateProject
+//  Created by 邝子涵 on 2020/3/22.
+//  Copyright © 2020 邝子涵. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+
+#import "BaseNavigationController.h"
+#import "BaseViewController.h"
+
+
+
+#pragma mark - ---------------- 三方 ----------------------
+#import <AFNetworking/AFNetworking.h>
+#import <IQKeyboardManager/IQKeyboardManager.h>
+#import <Masonry/Masonry.h>
+#import <MJRefresh/MJRefresh.h>
+#import <SDWebImage/SDWebImage.h>
+
+
+
+#endif /* PrefixHeader_pch */
