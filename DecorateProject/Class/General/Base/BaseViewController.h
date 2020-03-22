@@ -6,11 +6,11 @@
 //  Copyright © 2020 邝子涵. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <QMUICommonViewController.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface BaseViewController : UIViewController
+@interface BaseViewController : QMUICommonViewController
 
 @end
 

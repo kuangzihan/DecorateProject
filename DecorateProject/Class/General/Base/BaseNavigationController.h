@@ -6,11 +6,11 @@
 //  Copyright © 2020 邝子涵. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+#import <QMUINavigationController.h>
 
 NS_ASSUME_NONNULL_BEGIN
 
-@interface BaseNavigationController : UINavigationController
+@interface BaseNavigationController : QMUINavigationController
 
 @end
 

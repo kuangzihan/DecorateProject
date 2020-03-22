@@ -18,10 +18,7 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     
-    
     [self setupRootViewController];
-    
-    
     
     return YES;
 }

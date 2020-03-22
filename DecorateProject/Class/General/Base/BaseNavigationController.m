@@ -20,14 +20,4 @@
     
 }
 
-
-
-- (void)setViewControllers {
-    
-    
-    
-    
-}
-
-
 @end
